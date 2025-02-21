@@ -1,5 +1,9 @@
 # NAME: Others
 # UPDATED: 2024-01-08 16:02:59
+
+#AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
