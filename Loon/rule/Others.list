@@ -4,6 +4,13 @@
 #AI
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+
+#v2ex
 DOMAIN-SUFFIX,v2ex.com
+
+#pornhub
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
+
+#vivaldi
+DOMAIN-SUFFIX,vivaldi.com
