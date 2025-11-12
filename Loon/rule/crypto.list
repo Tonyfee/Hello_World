@@ -18,8 +18,10 @@ DOMAIN-SUFFIX,okx.com
 DOMAIN-SUFFIX,saasexch.co
 DOMAIN-SUFFIX,okcoin.com
 
-#others
+# tradingview
+DOMAIN-SUFFIX,tradingview.com
 
+#others
 DOMAIN-SUFFIX,aex.com
 DOMAIN-SUFFIX,aicoin.com
 DOMAIN-SUFFIX,aimoon.com
