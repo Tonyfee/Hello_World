@@ -1,11 +1,5 @@
 # NAME: Others
-# UPDATED: 2024-01-08 16:02:59
-
-# AI
-DOMAIN-SUFFIX,apple-relay.cloudflare.com
-DOMAIN-SUFFIX,apple-relay.apple.com
-DOMAIN-SUFFIX,x.ai
-DOMAIN-SUFFIX,grok.com
+# UPDATED: 2025-12-24
 
 # Community
 DOMAIN-SUFFIX,nodeseek.com
