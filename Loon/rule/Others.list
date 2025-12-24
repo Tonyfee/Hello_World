@@ -1,19 +1,47 @@
 # NAME: Others
 # UPDATED: 2024-01-08 16:02:59
 
-#AI
+# AI
 DOMAIN-SUFFIX,apple-relay.cloudflare.com
 DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
 
-#v2ex
+# Community
+DOMAIN-SUFFIX,nodeseek.com
+DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,lowendtalk.com
+DOMAIN-SUFFIX,hostloc.com
 
-#pornhub
+# resource
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,gravatar.com
+
+# porn
 DOMAIN-SUFFIX,pornhub.com
 DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,hath.network
+DOMAIN-SUFFIX,e-hentai.org
+DOMAIN-SUFFIX,nhentai.net
+DOMAIN-SUFFIX,phncdn.com
+DOMAIN-SUFFIX,xman8.org
 
-#vivaldi
-DOMAIN-SUFFIX,vivaldi.com
-
-#huggingface
+# huggingface
 DOMAIN-SUFFIX,huggingface.co
+DOMAIN-SUFFIX,hf.co
+
+# netlify
+DOMAIN-SUFFIX,netlify.app
+
+# better touch tool
+DOMAIN-SUFFIX,llo.ai
+DOMAIN-SUFFIX,folivora.ai
+
+# Emby
+DOMAIN-SUFFIX,neo.iflya321.com
+
+# misc
+DOMAIN-SUFFIX,garmin.com
+DOMAIN-SUFFIX,ingress.com
