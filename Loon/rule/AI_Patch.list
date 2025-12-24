@@ -1,0 +1,8 @@
+# NAME: AI_Patch
+# UPDATED: 2025-12-24
+
+# AI
+DOMAIN-SUFFIX,apple-relay.cloudflare.com
+DOMAIN-SUFFIX,apple-relay.apple.com
+DOMAIN-SUFFIX,x.ai
+DOMAIN-SUFFIX,grok.com
