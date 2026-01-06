@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,folivora.ai
 # Emby
 DOMAIN-SUFFIX,neo.iflya321.com
 
+# TMDB
+DOMAIN-SUFFIX,themoviedb.org
+
 # misc
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,ingress.com
