@@ -1,5 +1,5 @@
 # NAME: Others
-# UPDATED: 2025-12-24
+# UPDATED: 2026-06-28
 
 # Community
 DOMAIN-SUFFIX,nodeseek.com
@@ -7,6 +7,7 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,lowendtalk.com
 DOMAIN-SUFFIX,hostloc.com
+DOMAIN-SUFFIX,unraid.net
 
 # resource
 DOMAIN-SUFFIX,jsdelivr.net
@@ -33,12 +34,8 @@ DOMAIN-SUFFIX,netlify.app
 DOMAIN-SUFFIX,llo.ai
 DOMAIN-SUFFIX,folivora.ai
 
-# Emby
-DOMAIN-SUFFIX,neo.iflya321.com
-
 # TMDB
 DOMAIN-SUFFIX,themoviedb.org
 
 # misc
 DOMAIN-SUFFIX,garmin.com
-DOMAIN-SUFFIX,ingress.com
